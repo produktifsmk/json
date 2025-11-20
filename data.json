@@ -1,0 +1,27 @@
+[
+  {
+    "nama": "Ilham Pratama",
+    "nim": "202101001",
+    "jurusan": "Rekayasa Perangkat Lunak"
+  },
+  {
+    "nama": "Siti Rahmawati",
+    "nim": "202101002",
+    "jurusan": "Teknik Informatika"
+  },
+  {
+    "nama": "Andi Saputra",
+    "nim": "202101003",
+    "jurusan": "Sistem Informasi"
+  },
+  {
+    "nama": "Nur Aisyah",
+    "nim": "202101004",
+    "jurusan": "Manajemen Informatika"
+  },
+  {
+    "nama": "Budi Santoso",
+    "nim": "202101005",
+    "jurusan": "Ilmu Komputer"
+  }
+]
